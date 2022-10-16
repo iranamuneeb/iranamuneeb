@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rana Muneeb Asad
-- 👀 I’m interested in Blockchain, Web & Application design and developement
+- 👀 I’m interested in Blockchain, ML & AI! I'm also a UX/UI designer for fun
 - 🌱 I’m currently learning backend Developement using Django
 - 🤝 I’m looking to collaborate on Python and Front-End React.Js Projects 
 - 📫 You can reach me on muneebasad.24@gmail.com
