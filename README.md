@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana Muneeb Asad</h1>
 <h3 align="center">Unraveling insights, one byte at a time!</h3>
 
-- 🔭 I’m currently working on [RSNA 2024 Lumbar Spine Degenerative Classification](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)
-
-- 🌱 I’m currently learning **Pytorch and AWS**
-
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iranamuneeb](https://github.com/iranamuneeb)
-
-- 💬 Ask me about **Deep Learning, GANs, Generative Ai, Machine Learning**
-
 - 📫 How to reach me **muneebasad.24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
